@@ -1,0 +1,1 @@
+var Sum = 'sum = function(arr){ return arr.reduce((sum,current) => sum+current); }';
